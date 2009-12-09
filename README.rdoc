@@ -1,0 +1,12 @@
+Simple obj-c class lets you quickly ramp up a set of CSV files to CoreData import.
+
+Assumes you 
+- Already have a data model
+- Have relevant CSV files
+- will define add${MODEL}Entry methods 
+- will define CSV file mappings
+
+Good luck!
+-jf jeffrey dot odell at gmail dot com
+
+
